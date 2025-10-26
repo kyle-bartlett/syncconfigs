@@ -218,5 +218,5 @@ alias claudetools="cd $DEV_HOME/Claude-Tools"
 
 # 🌐 REMOTE MAC MANAGEMENT
 alias wake_grey="wakeonlan 2a:08:23:54:f4:b5"
-alias open_grey="ssh m2-grey-tailscale"
+alias open_grey="ssh kyle-bartlett@100.125.155.20"
 
